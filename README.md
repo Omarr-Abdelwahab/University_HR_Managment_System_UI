@@ -17,6 +17,7 @@ Database: SQL Server
 API: RESTful architecture
 
 ✨ Features
+
 Employee management (create, update, delete, and view employee records)
 
 Secure authentication system
