@@ -18,11 +18,16 @@ API: RESTful architecture
 
 ✨ Features
 Employee management (create, update, delete, and view employee records)
+
 Secure authentication system
 Role-based access control (admin / user separation)
+
 Attendance tracking and HR workflow handling
+
 REST APIs for frontend-backend communication
+
 Structured relational database design using SQL Server
+
 ⚙️ System Design
 
 Frontend handles user interface and interactions
@@ -34,23 +39,43 @@ SQL Server stores structured HR data (employees, roles, attendance)
 REST APIs connect frontend and backend for dynamic data flow
 
 🚀 Setup Instructions
+
 Clone Repository
+
 git clone <repository-url>
+
 cd hr-system
+
 Frontend Setup
+
 cd frontend
+
 npm install
+
 npm run dev
+
 Backend Setup
+
 cd backend
+
 npm install
+
 npm run dev
+
 📌 Notes
+
 Ensure SQL Server is running locally or remotely before starting backend
+
 Configure database connection in environment variables
+
 Backend must be running for full system functionality
+
 👀 Preview
+
 Employee dashboard for HR management
+
 Secure login system with role-based access
+
 Admin controls for managing HR operations
+
 Responsive UI for daily workflow usage
